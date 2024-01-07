@@ -25,7 +25,7 @@ const config = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '01903730852',
     codeforces: 'Nishita2000',
     email: 'sadiaalam@iut-dhaka.edu',
   },
