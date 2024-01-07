@@ -131,7 +131,7 @@ const Details = ({ profile, loading, social, github }) => {
                   icon={<SiCodeforces />}
                   title="Codeforces:"
                   value={social.codeforces}
-                  link={`https://codeforces.com/${social.codeforces}`}
+                  link={`https://codeforces.com/profile/${social.codeforces}`}
                 />
               )}
               {social?.mastodon && (
