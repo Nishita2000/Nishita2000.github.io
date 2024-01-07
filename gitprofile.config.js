@@ -6,7 +6,7 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 20, // How many projects to display.
     exclude: {
-      forks: true, // Forked projects will not be displayed if set to true.
+      forks: false, // Forked projects will not be displayed if set to true.
       projects: ['Student_ID_Card','Quiz_App','todo_app','190041105-CSE-4302','Timer_App',], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
