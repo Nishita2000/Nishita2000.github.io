@@ -4,7 +4,7 @@ import {
   AiFillInstagram,
   AiFillMediumSquare,
 } from 'react-icons/ai';
-import { SiTwitter } from 'react-icons/si';
+import { SiTwitter, SiCodeforces } from 'react-icons/si';
 import { CgDribbble } from 'react-icons/cg';
 import { RiPhoneFill, RiMailFill } from 'react-icons/ri';
 import { Fragment } from 'react';
@@ -124,6 +124,14 @@ const Details = ({ profile, loading, social, github }) => {
                   title="Twitter:"
                   value={social.twitter}
                   link={`https://twitter.com/${social.twitter}`}
+                />
+              )}
+              {social?.codeforces && (
+                <ListItem
+                  icon={<SiCodeforces />}
+                  title="Codeforces:"
+                  value={social.codeforces}
+                  link={`https://codeforces.com/${social.codeforces}`}
                 />
               )}
               {social?.mastodon && (
