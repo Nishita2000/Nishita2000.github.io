@@ -84,7 +84,7 @@ const config = {
       to: '2019',
     },
     {
-      institution: 'Bangladesh Mahily Samity Girls' High School & College',
+      institution: 'Bangladesh Mahila Samity Girls High School & College',
       degree: 'SSC',
       from: '2005',
       to: '2017',
