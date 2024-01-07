@@ -26,6 +26,7 @@ const config = {
     telegram: '',
     website: '',
     phone: '',
+    codeforces: 'Nishita2000',
     email: 'sadiaalam@iut-dhaka.edu',
   },
   resume: {
