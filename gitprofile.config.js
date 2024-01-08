@@ -97,14 +97,14 @@ const config = {
     {
       title: 'Mood-Movie',
       description:
-        'A Machine Learning based movie recommendation application. The app can detect emotion by capturing real time image. Users can also upload images. Movies will be suggested based on the emotion of the user.',
+        'Mood Movie is an innovative movie recommendation application powered by machine learning. Built with a Convolutional Neural Network (CNN) model, integrated with the TMDB API, and developed using NextJS, the app offers personalized movie suggestions based on the user's emotions.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/shahnewaz-labib/mood-movie',
     },
     {
       title: 'Musicana',
       description:
-        'A Music Player App with flutter and Spotify API. Get daily featured songs and albums. Search any specific songs and play. Create and save playlists',
+        'Musicana is a versatile music player app developed using Flutter and integrated with the Spotify API. Enjoy a seamless music experience with features like daily featured songs and albums, the ability to search for specific songs, and create and save playlists.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/nabliha-11/Music_App',
     },
