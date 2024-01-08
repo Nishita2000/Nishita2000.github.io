@@ -74,7 +74,7 @@ const config = {
   education: [
     {
       institution: 'Islamic University of Technology (IUT)',
-      degree: 'BSc Engg in CSE',
+      degree: 'BSc in CSE',
       from: '2020',
       to: '2024',
     },
@@ -95,18 +95,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Mood-Movie',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/shahnewaz-labib/mood-movie',
     },
     {
-      title: 'Project Name',
+      title: 'Musicana',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/nabliha-11/Music_App',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -159,11 +159,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  // footer: `Made with <a 
+  //     class="text-primary" href="https://github.com/arifszn/gitprofile"
+  //     target="_blank"
+  //     rel="noreferrer"
+  //   >GitProfile</a> and ❤️`,
 };
 
 export default config;
