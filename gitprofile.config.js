@@ -104,11 +104,9 @@ const config = {
     {
       title: 'Musicana',
       description:
-        'A Music Player App with flutter and Spotify API
-        Tools: Flutter, Spotify API
-        Get daily featured songs and albums
-        Search any specific songs and play
-        Create and save playlists',
+        'A Music Player App with flutter and Spotify API\n
+        Tools: Flutter, Spotify API\n
+        Get daily featured songs and albums, Search any specific songs and play, Create and save playlists',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/nabliha-11/Music_App',
     },
