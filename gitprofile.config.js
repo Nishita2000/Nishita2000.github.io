@@ -97,7 +97,7 @@ const config = {
     {
       title: 'Mood-Movie',
       description:
-        'Mood Movie is an innovative movie recommendation application powered by machine learning. Built with a Convolutional Neural Network (CNN) model, integrated with the TMDB API, and developed using NextJS, the app offers personalized movie suggestions based on the user's emotions.',
+        'Mood Movie is an innovative movie recommendation application powered by machine learning. Built with a Convolutional Neural Network (CNN) model, integrated with the TMDB API, and developed using NextJS, the app offers personalized movie suggestions based on the users emotions.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/shahnewaz-labib/mood-movie',
     },
