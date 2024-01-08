@@ -48,6 +48,10 @@ export interface Social {
    * Twitter
    */
   twitter?: string;
+   /**
+   * Codeforces
+   */
+  codeforces?: string;
 
   /**
    * Mastodon
