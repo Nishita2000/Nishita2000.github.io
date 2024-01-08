@@ -105,7 +105,7 @@ const config = {
       title: 'Musicana',
       description:
         'Musicana is a versatile music player app developed using Flutter and integrated with the Spotify API. Enjoy a seamless music experience with features like daily featured songs and albums, the ability to search for specific songs, and create and save playlists.',
-      imageUrl: 'https://drive.google.com/file/d/1SGuavSQ_FF2d9wrVpv81r8x1Sb4Gzalh/view?usp=drive_link/250x250',
+     imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/nabliha-11/Music_App',
     },
   ],
