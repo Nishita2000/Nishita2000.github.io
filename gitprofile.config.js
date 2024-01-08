@@ -97,7 +97,7 @@ const config = {
     {
       title: 'Mood-Movie',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A Machine Learning based movie recommendation application. The app can detect emotion by capturing real time image. Users can also upload images. Movies will be suggested based on the emotion of the user.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://github.com/shahnewaz-labib/mood-movie',
     },
